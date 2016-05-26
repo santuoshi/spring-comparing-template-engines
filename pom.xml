@@ -248,7 +248,7 @@
 			  <outputDirectory>${basedir}/target/template-engines</outputDirectory>
 			  <resources>          
 				<resource>
-				  <directory>/</directory>
+				  <directory>appspec</directory>				  
 				  <includes>
 					<include>appspec.yml</include>
 				</includes>
