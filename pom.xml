@@ -251,6 +251,7 @@
 				  <directory>appspec</directory>				  
 				  <includes>
 					<include>appspec.yml</include>
+					<include>validateservice.sh</include>
 				</includes>
 				</resource>
 			  </resources>              
